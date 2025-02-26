@@ -135,3 +135,27 @@ section button{
     width:300px;
     height:auto;
 }
+.main-img{
+    width:150px;
+    height:auto;
+    border: 5px solid #3882F6;
+    border-radius: 20px;
+}
+h2{
+    text-align:center;
+    font-size: 36px;
+    font-weight:900;
+    color:#1F2937;
+}
+.infos{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+    margin-bottom: 80px;
+}
+.square{
+    width: 150px;
+    text-align: center;
+    color: #1F2937;
+}
