@@ -176,3 +176,29 @@ h2{
     display: flex;
     justify-content: flex-end;
 }
+.cta{
+    margin: 50px auto;
+    padding:20px 0;
+    width:60%;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #E5E7EB;
+}
+.cta p{
+    font-weight: light;
+    margin-top: 0;
+}
+h3{
+    margin-bottom: 0;
+}
+.cta button{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    padding: 7px 30px;
+    font-weight: bold;
+    border-color: #E5E7EB;
+    border-radius: 5px;
+
+}
