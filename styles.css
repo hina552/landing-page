@@ -202,3 +202,9 @@ h3{
     border-radius: 5px;
 
 }
+footer{
+    text-align:center;
+    color:#E5E7EB;
+    padding: 15px 0;
+    font-weight: 100;
+}
